@@ -14,3 +14,8 @@ This is a flight scheduler application with a GUI and a relational database in t
 * **Waitlist Feature**: Automatically manages waitlisted customers when flights are full, offering seats as they become available. <br>
 ![alt text](https://github.com/nelson1998/Flight-Scheduler-Program/blob/master/img/Screenshot_6.jpg)
 * **Derby Database Backend**: Utilizes a robust, lightweight Derby database for data persistence.
+
+## Prerequisites
+* JDK 8 or later installed on your system.
+* Apache NetBeans IDE for development and execution.
+* Apache Derby Database for the backend data storage.
